@@ -1,0 +1,23 @@
+/*class="track" id=#audio-player  music-form  query   search-button   lista */
+body{
+    background-image: linear-gradient(red, black);
+    display: flex;
+    justify-content: center;
+}
+
+#music-form{
+    margin: 3px;
+    padding: 10px 10px;
+    position: absolute;
+}
+
+#lista{
+    padding: 50px 0;
+    
+}
+
+.track{
+    display: flex;
+    flex-direction: column;
+    border-radius: 40px;
+}
